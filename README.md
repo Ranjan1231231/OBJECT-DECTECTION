@@ -1,6 +1,9 @@
 # OBJECT-DECTECTION
 
 This project include pretrained model Faster R-CNN(COCO_INSTANCE_DATASET).
+
+
+\n
 It can dectect items from this list:-
  'person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus',
     'train', 'truck', 'boat', 'traffic light', 'fire hydrant', 'stop sign',
